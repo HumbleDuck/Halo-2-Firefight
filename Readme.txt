@@ -16,7 +16,7 @@ Waves
   Sleep until all phantoms have departed and all squads associated with current wave have been eliminated
   Set "wave" to value of next wave or set to first wave value for loop
 Phantom Command Scripts
-  Randomly select a squad composition and place squads. Squad AI seems to break if not placed by a command script
+  Randomly select a squad composition and place squads. Squad AI seems to break if not placed by phantom's command script
   Load squad onto phantom
   Enable pathfinding failsafe to prevent confusion
   Fly! Phantoms can "fly_by" multiple points, then "fly_to" destination. Speed can be adjusted
