@@ -88,7 +88,7 @@
 	)
 
 	(cs_enable_pathfinding_failsafe TRUE) ;This command prevents phantoms from bugging in place
-	(cs_fly_by phantom_flyin_1/p0) ;Fly by a point in point set "phantom_flying_1" | Point sets located at AI/Script data/Point sets
+	(cs_fly_by phantom_flyin_1/p0) ;Fly by a point in point set "phantom_flyin_1" | Point sets located at AI/Script data/Point sets
 								   ;Can fly by and to as many points as you like, even deploying troops in multiple locations
 	;If you want the phantom to slow as it approaches its destination
 	;(cs_vehicle_speed .5)
