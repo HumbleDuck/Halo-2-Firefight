@@ -1,5 +1,4 @@
 ;Useful: less lethal phantom variant is "long_lift" | units might plunge to their deaths otherwise
-;Quick find: scouts |
 
 (global short wave 1) ;Firefight starts with value of 1
 (global short rand_wv 0) ;For that refreshing replayable flavor
